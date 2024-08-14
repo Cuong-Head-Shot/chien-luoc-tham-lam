@@ -1,0 +1,6 @@
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\bai toan lua chon hoat dong\bai toan lua chon hoat dong\bin\Debug\bai toan lua chon hoat dong.exe.config
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\bai toan lua chon hoat dong\bai toan lua chon hoat dong\bin\Debug\bai toan lua chon hoat dong.exe
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\bai toan lua chon hoat dong\bai toan lua chon hoat dong\bin\Debug\bai toan lua chon hoat dong.pdb
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\bai toan lua chon hoat dong\bai toan lua chon hoat dong\obj\Debug\bai toan lua chon hoat dong.csproj.CoreCompileInputs.cache
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\bai toan lua chon hoat dong\bai toan lua chon hoat dong\obj\Debug\bai toan lua chon hoat dong.exe
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\bai toan lua chon hoat dong\bai toan lua chon hoat dong\obj\Debug\bai toan lua chon hoat dong.pdb

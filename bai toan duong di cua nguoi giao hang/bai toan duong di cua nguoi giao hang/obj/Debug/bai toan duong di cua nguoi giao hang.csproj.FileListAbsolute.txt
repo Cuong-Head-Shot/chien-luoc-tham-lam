@@ -1,0 +1,7 @@
+C:\Users\cuong\OneDrive\Máy tính\BTL_PhiCuong\bai toan duong di cua nguoi giao hang\bai toan duong di cua nguoi giao hang\bin\Debug\bai toan duong di cua nguoi giao hang.exe.config
+C:\Users\cuong\OneDrive\Máy tính\BTL_PhiCuong\bai toan duong di cua nguoi giao hang\bai toan duong di cua nguoi giao hang\bin\Debug\bai toan duong di cua nguoi giao hang.exe
+C:\Users\cuong\OneDrive\Máy tính\BTL_PhiCuong\bai toan duong di cua nguoi giao hang\bai toan duong di cua nguoi giao hang\bin\Debug\bai toan duong di cua nguoi giao hang.pdb
+C:\Users\cuong\OneDrive\Máy tính\BTL_PhiCuong\bai toan duong di cua nguoi giao hang\bai toan duong di cua nguoi giao hang\obj\Debug\bai toan duong di cua nguoi giao hang.csproj.AssemblyReference.cache
+C:\Users\cuong\OneDrive\Máy tính\BTL_PhiCuong\bai toan duong di cua nguoi giao hang\bai toan duong di cua nguoi giao hang\obj\Debug\bai toan duong di cua nguoi giao hang.csproj.CoreCompileInputs.cache
+C:\Users\cuong\OneDrive\Máy tính\BTL_PhiCuong\bai toan duong di cua nguoi giao hang\bai toan duong di cua nguoi giao hang\obj\Debug\bai toan duong di cua nguoi giao hang.exe
+C:\Users\cuong\OneDrive\Máy tính\BTL_PhiCuong\bai toan duong di cua nguoi giao hang\bai toan duong di cua nguoi giao hang\obj\Debug\bai toan duong di cua nguoi giao hang.pdb

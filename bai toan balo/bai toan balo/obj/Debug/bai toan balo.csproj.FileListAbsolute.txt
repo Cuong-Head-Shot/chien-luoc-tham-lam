@@ -1,0 +1,6 @@
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\bai toan balo\bai toan balo\obj\Debug\bai toan balo.csproj.CoreCompileInputs.cache
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\bai toan balo\bai toan balo\bin\Debug\bai toan balo.exe.config
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\bai toan balo\bai toan balo\bin\Debug\bai toan balo.exe
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\bai toan balo\bai toan balo\bin\Debug\bai toan balo.pdb
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\bai toan balo\bai toan balo\obj\Debug\bai toan balo.exe
+C:\Users\cuong\OneDrive\Máy tính\BTL _PhiCuong+ThanhHoang\bai toan balo\bai toan balo\obj\Debug\bai toan balo.pdb
